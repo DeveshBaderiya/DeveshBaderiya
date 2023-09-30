@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeveshBaderiya
+- 👋 Hi, I’m Devesh Baderiya
 - 👀 I’m interested in assembly language/C/C++/Python
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
