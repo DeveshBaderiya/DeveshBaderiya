@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Devesh Baderiya
 - C/C++/HTML/Python
+- Rust/ASM (in future)
 
 
 
