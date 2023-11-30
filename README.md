@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Devesh Baderiya
-- C/C++/html/python
+- C/C++/HTML/Python
 
 
 
 <!---
-- 👀 I’m interested in assembly language/C/C++/Python
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 DeveshBaderiya/DeveshBaderiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
